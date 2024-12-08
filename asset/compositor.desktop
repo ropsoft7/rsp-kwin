@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Window
+Comment=Window Compositor Settings (kwin)
+Exec=kcmshell6 kwincompositing kcm_kwinoptions kcm_kwindecoration kcm_kwin_effects kcm_kwintabbox kcm_kwinscreenedges kcm_kwintouchscreen kcm_kwinrules kcm_kwin_scripts kwin_kwin_virtualdesktops kcm_kwinxwayland  
+Type=Application
+Icon=kwin
+Categories=Settings;DesktopSettings;Qt;RSp;
+OnlyShowIn=RSp;
